@@ -54,13 +54,6 @@ Let us change our traditional attitude to the construction of programs: Instead 
 
 ---
 
-references to R in published papers on the rise
-PLot if possible.
-
-Acadamic API wrappers RPLoS, Rmendeley, ROpenSci
-
----
-
 ## R does GIS
 
 ---
@@ -86,7 +79,7 @@ Acadamic API wrappers RPLoS, Rmendeley, ROpenSci
 <center>[![](assets/img/kaggle-tools1.png)](http://blog.kaggle.com/2011/11/27/kagglers-favorite-tools/)</center>
 
 ---
-### LDA Topic modelling of the Sarah Palin Emails
+### [LDA Topic modelling of the Sarah Palin Emails](http://blog.echen.me/2011/06/27/topic-modeling-the-sarah-palin-emails/)
 * Wildlife: 
   * game, fish, moose, wildlife, hunting, bears, polar, bear, subsistence, management, area, board, hunt, wolves, control, department, year, use, wolf, habitat, hunters, caribou, program, denby, fishing, …
   
@@ -115,11 +108,14 @@ Acadamic API wrappers RPLoS, Rmendeley, ROpenSci
 ## R does Big Data
 
 ---
+<center>[![](assets/img/techcrunch.png)](http://techcrunch.com/2012/10/27/big-data-right-now-five-trendy-open-source-technologies/)</center>
+
+### "The R community is one of the most thrilling places to be in Big Data right now." --TechCrunch
+
+---
 ### R and Hadoop
 
-Easy parallelization and distribution
 <center>[![](assets/img/rmr.png)](http://blog.revolutionanalytics.com/2011/09/mapreduce-hadoop-r.html)</center>
-
 
 ---
 ## R does journalism

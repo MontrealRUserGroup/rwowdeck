@@ -18,6 +18,14 @@ install_github('markdown', 'rstudio')
 ```
 
 ---
+
+
+references to R in published papers on the rise
+PLot if possible.
+
+Acadamic API wrappers RPLoS, Rmendeley, ROpenSci
+
+---
 ### Usage
 
 `slidify` is designed to make it very easy for a HTML novice to generate a crisp, visually appealing `HTML5` slide deck. You can do it in just three steps!
