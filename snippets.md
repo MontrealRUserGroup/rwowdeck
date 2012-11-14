@@ -1,0 +1,48 @@
+
+---
+## Some Math
+
+Let us now try out some Math.
+
+$$
+\begin{aligned}
+\alpha & = \beta + \gamma \\
+\gamma & = \sum x_i + y_i
+\end{aligned}
+$$
+
+
+```r
+install_github("knitr", "yihui")
+install_github("whisker", "edwindj")
+install_github("markdown", "rstudio")
+```
+
+
+---
+### Usage
+
+`slidify` is designed to make it very easy for a HTML novice to generate a crisp, visually appealing `HTML5` slide deck. You can do it in just three steps!
+
+* Write your source file in [R Markdown](http://goo.gl/KKdaf)
+* Separate your slides using a horizontal rule `---`
+* Run `slidify("slides.Rmd")` to generate your slide deck.
+
+---
+`slidify` allows you to render your slides using several HTML5 slide frameworks. Currently supported frameworks are:
+
+* [deck.js][1]
+* [dzslides][2]
+* [html5slides][3]
+* [shower][4]
+* [slidy][5]
+
+Extending `slidify` to accommodate other frameworks is pretty straightforward. The plan is to support more frameworks over time.
+
+[1]: http://imakewebthings.com/deck.js/
+[2]: http://paulrouget.com/dzslides/
+[3]: http://html5slides.googlecode.com/
+[4]: http://pepelsbey.github.com/shower/en.htm
+[5]: http://www.w3.org/Talks/Tools/Slidy2/Overview.html#(1)
+
+---
