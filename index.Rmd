@@ -66,13 +66,13 @@ Let us change our traditional attitude to the construction of programs: Instead 
 ## R does (competitive) datamining
 
 ---
-### Observing dark worlds Kaggle competition
-<center>[![](assets/img/sky248.png)](http://bayesianbiologist.com/2012/10/13/observing-dark-worlds-visualizing-dark-matters-distorting-effect-on-galaxies/)</center>
-
----
-### Tool of choice for Kagglers
+### Tool of choice for [Kagglers](http://kaggle.com/)
 
 <center>[![](assets/img/kaggle-tools1.png)](http://blog.kaggle.com/2011/11/27/kagglers-favorite-tools/)</center>
+
+---
+### Observing dark worlds Kaggle competition
+<center>[![](assets/img/sky248.png)](http://bayesianbiologist.com/2012/10/13/observing-dark-worlds-visualizing-dark-matters-distorting-effect-on-galaxies/)</center>
 
 ---
 ### [LDA Topic modelling of the Sarah Palin Emails](http://blog.echen.me/2011/06/27/topic-modeling-the-sarah-palin-emails/)
