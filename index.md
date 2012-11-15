@@ -29,7 +29,7 @@ Sponsored by:
 
 ```r
 hw <- read.csv("data/heightweight.csv")
-fit <- lm(hw$weightLb ~ hw$heightIn)
+fit <- lm(weightLb ~ heightIn, data = hw)
 plot(hw$heightIn, hw$weightLb, xlab = "Height (Inches)", ylab = "Weight (Lbs)")
 abline(fit, lty = 2)
 ```
