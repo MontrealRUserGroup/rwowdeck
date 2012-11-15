@@ -158,3 +158,12 @@ http://www.rstudio.com/shiny/
 ---
 ## Thank you for hosting!
 <center>![title](../../latestLOGO.jpg)</center>
+
+--- 
+## Source
+
+These slides were created using [Ramnath Vaidyanathan](https://github.com/ramnathv)'s [Slidify package](http://ramnathv.github.com/slidify/)
+
+Slide source available on [github](https://github.com/MontrealRUserGroup/rwowdeck)
+
+![](assets/img/octocat.png)
