@@ -157,7 +157,7 @@ http://www.rstudio.com/shiny/
 <center>![](assets/img/fig_10_cran.png)</center>
 
 ---
-<center>![](assets/img/ranks_slope.png)</center>
+<center>[![](assets/img/ranks_slope.png)](http://www.drewconway.com/zia/?p=2892)</center>
 
 ---
 ## Thank you for hosting!
